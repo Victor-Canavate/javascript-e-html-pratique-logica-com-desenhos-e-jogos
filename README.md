@@ -4,7 +4,8 @@
 Este repositório tem como finalidade compartilhar e armazenar todos os arquivos gerados durante o meu processo de aprendizagem.
 
 Nesse caso, todo o código é proveniente do curso
-Javascript e HTML - Pratique lógica com desenhos e jogos
+
+> Javascript e HTML - Pratique lógica com desenhos e jogos
 
 Que por sua vez, faz parte da Alura.
 
