@@ -1,4 +1,3 @@
-template do readme dos cursos alura
 # BEM-VINDO 
 
 
